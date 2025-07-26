@@ -8,3 +8,5 @@ For TuteDude Assignments
  Task6 : Using the Math Module for Calculations
  Task7 : Read a File and Handle Errors
  Task8 : Write and Append Data to a File
+ Task9: Create a Dictionary of Student Marks
+ Task10: Demonstrate List Slicing
